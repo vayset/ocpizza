@@ -8,5 +8,7 @@
 
 <body>
   <h1>#(title)</h1>
+  <p> C'est une super journée </p>
 </body>
 </html>
+
